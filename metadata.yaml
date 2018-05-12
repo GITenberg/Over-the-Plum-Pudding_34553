@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/979
     wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34553#Over-the-Plum-Pudding
 gutenberg_issued: '2010-12-03'
 gutenberg_type: Text
 identifiers:
