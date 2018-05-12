@@ -1,0 +1,34 @@
+_repo: Over-the-Plum-Pudding_34553
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bangs, John Kendrick
+    birthdate: 1862
+    deathdate: 1922
+    gutenberg_agent_id: '979'
+    url: http://www.gutenberg.org/2009/agents/979
+    wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
+description: ''
+gutenberg_issued: '2010-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34553'
+  lccn: '01024654'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Short stories'
+tableOfContents: '"Over the plum-pudding" -- Bills, M.D. -- The flunking of Watkin''s
+  ghost -- The unmailed letter -- The amalgamated brotherhood of spooks -- A glance
+  ahead -- Hans Pumpernickel''s vigil -- The affliction of Baron Humpfelhimmel --
+  A great composer -- How Fritz became a wizard -- Rise and fall of the poet Gregory
+  -- The loss of the "Gretchen B."'
+title: Over the Plum Pudding
+url: http://www.gutenberg.org/ebooks/34553
